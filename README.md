@@ -1,0 +1,1 @@
+A StreamYard clone is a web application that enables users to host live video streams, invite guests, and broadcast to multiple platforms like YouTube and Facebook simultaneously. The application uses FFmpeg, a powerful multimedia framework, for encoding, decoding, and streaming video and audio content.
